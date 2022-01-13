@@ -1,0 +1,22 @@
+i,i < array.length,array[i] > maiorNum,maiorNum,return maiorNum
+0,true,false,469,-
+1,true,true,755,-
+2,true,false,755,-
+3,true,false,755,-
+4,true,true,758,-
+5,true,false,758,-
+6,true,false,758,-
+7,true,false,758,-
+8,true,false,758,-
+9,true,false,758,-
+10,true,false,758,-
+11,true,false,758,-
+12,true,false,758,-
+13,true,false,758,-
+14,true,true,882,-
+15,true,false,882,-
+16,true,false,882,-
+17,true,false,882,-
+18,true,true,940,-
+19,true,false,940,-
+20,false,-,940,940

@@ -1,0 +1,11 @@
+total,i,i <= num,total = total + i,return total
+0,1,true,total = 0 + 1,-
+1,2,true,total = 1 + 2,-
+3,3,true,total = 3 + 3,-
+6,4,true,total = 6 + 4,-
+10,5,true,total = 10 + 5,-
+15,6,true,total = 15 + 6,-
+21,7,true,total = 21 + 7,-
+...,...,...,...,...
+190,20,true,total = 190 + 20,-
+210,21,false,total = 210,210
